@@ -1,0 +1,387 @@
+[
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A heater supplies energy to a liquid of mass 0.5 kg and specific hear capacity 4000 J kg^-1 \u00b0C^-1 contained in a vessel of negligible heat capacity. Assume that the heat exchange with the surroundings can be neglected. If the temperature of the liquid rises from 10 \u00b0C to 70 \u00b0C in 100 s, the power of the heater is \nA. 200 W\nB. 1200 W\nC. 1400 W\nD. 12000 W",
+        "output": "B\n\nBy E = Pt = mc\u0394T\n\u2234 P(100) = (0.5)(4000)(70-10)\n\u2234P = 1200 W"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The following apparatus which may be used to measure the specific heat capacity of water.\nPolystyrene Cup, Heater, Thermometer, Low voltage supply\n(a) Draw a simple diagram to show how the apparatus can be set up for the experiment\n(b) The following are readings taken in the experiment: The rating of the heater = 12 V, 40 W, Mass of water used = 200 g, Initial temperature of the water = 25.1 \u00b0C, Final temperature of the water =  53.2 \u00b0C, Time taken to heat up the water = 10 minutes\n(bi) Calculate the specific heat capacity of water as measured from the experiment, given that the water is well stirred throughout the experiment.\n(bii) Give two reasons why a polystyrene cup should be used in the experiment\n(biii) Why should the water be stirred throughout the experiment?\n(c) Describe, with the aid of a diagram, a method to check whether the powe output of the heater is 40 W. Show how the actual power output of the heater can be calculated. ",
+        "output": "(a) heater immersed in water, heater connected to power supply, thermometer immersed in water\n(bi) Heat transferred to water: E = 40 * 60 * 10 = 24000 J\nIncrease in temperature:  \u0394T = 53.2 - 25.1 = 28.1 \u00b0C\nBy E = mc\u0394T \u2234 (24000) = (0.2)(c)(28.1) \u2234 c = 4270 J kg^-1 \u00b0C^-1\n(bii) Energy absorbed by the polystyrene cup is small since its heat capacity is small. Energy to the surroundings is small since polystyrene is a poor conductor of heat. \n(biii) To ensure that the temperature of water is uniform.\n(c) The heater is connected to the power supply through a joulemeter. The energy given to the heater E is found by recording the initial and final readings of the joulemeter. The time taken t is found by a stop-watch. The power output of the heater is found by P = E/t"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A hot potato wrapped by shiny aluminium foil. By what means can the foil help reducing the rate of energy lost from the potato to the surroundings?\n(1) conduction\n(2) convection\n(3) radiation\nA. (2) only\nB. (3) only\nC. (1) & (2) only\nD. (1) & (3) only",
+        "output": "B\n\n(1) wrong: Aluminium is a good conductor; heat lost by conduction cannot be reduced. To reduce heat lost by conduction, the potato should be wrapped with an insulated foil.\n(2) wrong: Convection outside the wrapped potato can still take place after wrapping with aluminium foil. To reduce heat lost by convection, the potato should be placed inside an insulated box.\n(3) correct: Shiny surface of the aluminium foil is poor emitter of radiation, thus heat lost is reduced. "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Read the following passage about thermal flasks and answer the questions that follow. \n\nWorking principles of thermal flasks\n\nThermal flasks are used to store hot liquids and can keep them warm for a period of time. Insulating by foam and insulating by vacuum are two common ways of making thermal flasks. \n\nFor a thermal flask applying insulation by foam, a layer of foam is used to wrap the container. Both the foam and the air trappoed inside the foam are poor conductors of heat, Also, the air inside the foam is broken into many tiny bubbles, which reduce convection of air inside the foam. Heat transfer through foam is therefore pretty slow. \n\nFor a thermal flask applying insulation by vacuum, there is a vacuum between the double glass walls of the container. The heat insulation of vacuum is better than that of foam. Furthermore, the inner surface of walls of the glass container is painted silvery to reduce heat transfer. As glass is fragile, the glass container is protected by an outer case with an insulated support.\n\n(a) Explain how the foam reduces heat transfer by conduction and convection. \n(b) Explain why the heat insulation of vacuum between the double glass walls is better than that of foam. \n(c) State ONE design in the vacuum flask that helps to reduce heat loss by radiation.\n(d) Can a thermal flask also store cold liquids and keep them cold for a period of time? Explain your answer. ",
+        "output": "(a) Foam is a poor conductor of heat. The small air bubbles  inside the foam reduce the air convection.\n(b) Vacuum does not have air, thus no conduction of heat. Vacuum does not have air, thus no air convection. \n(c) The vacuum flask has silvery surface to reduce radiation\n(d) Yes. Since the thermal flask can reduce heat transfer, the liquid can be kept cold for a period of time. "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Two liquids A and B are cooled in air. Their cooling curves are as below.\nAt time = 0, A and B at same temperature.\nAt time = t, temperature of A is larger than that of B.\nAt time between t and t_A, temperature of A remain unchanged.\nAt time between t and t_B, temperature of B remain unchanged.\nAt time = t_A, temperature of A start decreasing. \nAt time = t_B, temperature of B start decreasing. \nt_A is larger than t_B. \n\nIf A and B have the same mass, which of the following statements is/are true?\n(1) A has a higher freezing point than B.\n(2) A has a greater specific latent heat of fusion than B.\n(3) Liquid A has a greater specific heat capacity that liquid B.\nA. (3) only\nB. (1) & (2) only\nC. (2) & (3) only\nD. (1), (2) & (3)\n",
+        "output": "D\n\n(1) correct: The temperature of the horizontal line is the freezing point, thus, A has a higher freezing point.\n(2) correct: A has a greater specific latent heat of fusion because it takes a longer time for the process of freezing.\n(3) correct: E = Pt = mc\u0394T \u2234slope of graph = \u0394T / t = P / m*c \\u221d 1/c Liquid A has a smaller absolute value of slope, thus A has the greater specific heat capacity. "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a) Two solids A and B of the same mass are placed in a hot bath and their temperatures are plotted against time as below. Assume that the rates of heat supplied to A and B are the same. \nAt time = 0, temperature of A and B are the same.\nAt time =  t, temperature of B is greater higher than that of A. \nBetween time t and t_A, the temperature of A remain unchanged. \nBetween time t and t_B, the temperature of B remain unchanged.\nAt time t = t_A, the temperature of A start increasing.\nAt time t = t_B, the temperature of B start increasing.\nt_A is greater than t_B. \n(ai) Which of the solids A and B has a higher melting point?\n(aii) Making use of the figure, explain why A should have a higher specific latent heat of fuson than B.\n(b) A student carried out an experiment to find the specific latent heat of fusion of ice by the method of mixtures. He placed 0.02 kg of ice at 0 \u00b0C into a plastic cup (of negligible heat capacity and with good insulation) containing 0.05 kg of water at 20 \u00b0C. (Specific latent heat of fusion of ice = 336000 J kg^-1)\n(bi) What is the amount of heat required for the ice to change into water at 0 \u00b0C?\n(bii) What is the amount of heat supplied by the water in the cup as it is cooled from 20 \u00b0C to 0 \u00b0C? (Specific heat capacity of water = 4200 J kg^-1 \u00b0C^-1).\n(biii) What is the final temperature of the mixture?\n(biv) The student found that he could not obtain a value for the specific latent heat of fusion of ice from the experiment. Why? Explain briefly.",
+        "output": "(ai) B has a higher melting point.\n(aii) The itme taken by A to melt is longer that that of B. Therefore, A requires larger hear (OR greater energy) for melting.\n(bi) E = ml\n= (0.02)*(336000)\n= 6720 J\n(bii) E = mc\u0394T\n= (0.05)*(4200)*(20 - 0)\n= 4200 J\n(biii) The final temperature of the mixture is 0 \u00b0C.\n(biv) The student has used too much ice. (OR The student has used too little water.) Therefore, the ice would not melt completely after the experiment. "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "6 * 10^-3 m^3 of a gas is contained in a vessel at 91 \u00b0C and a pressure of 4 * 10^5 Pa. If the density of the gas at s.t.p. (0 \u00b0C and 10^5 Pa) is 1.2 kg m^-3, what is the mass of the gas?\nA. 7.2 g\nB. 14.4 g\nC. 21.6 g\nD. 28.8 g",
+        "output": "C\n\nBy P_1*V_1 / T_1 = P_2*V_2 / T_2\n\u2234 (4*10^5)(6*10^-3) / (91+273) = (10^5)V_2 / (273) \u2234 V_2 = 0.018 m^3\nmass = density * volume = 1.2 * 0.018 = 0.0216 kg = 21.6 g"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A gas is contained in a cylinder fitted with a piston. Its volume is given by the calibration on the cylinder as 0.0015 m^3. The pressure reading on the Bourdon gauge is 2.5 * 10^5 N m^-2.\n(a) If the volume of the gas is reduced to 1/4 of its original value without altering its temperature, find the new pressure of the gas.\n(b) If the temperature of the gas is raised from its initial value of 27 \u00b0C to 327 \u00b0C, but with the volume kept constant at 0.0015 m^3, find the new pressure of the gas.",
+        "output": "(a) P_1 * V_1 = P_2 * V_2\n\u2234 (2.5 * 10^5) * (0.0015) = P_2(0.0015 / 4)\n\u2234 P_2 = 10^6 Pa\n(b) P_1 / T_1 = P_2 / T_2\n\u2234 (2.5 * 10^5) / (27 + 273) = P_2 / (327 + 273)\n\u2234 P_2 = 5 * 10^5 Pa"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "When observed through a microscope, smoke particles in a smoke cell are seen to be in continuous random motion. This is mainly due to\nA. the motion of air molecules.\nB. air currents.\nC. the motion of atoms in the smoke particles.\nD. heat radiation from the illuminating lamp of the smoke cell.",
+        "output": "A\n\nThe motion of air molecules causes the hitting of air molecules onto the large smoke particles, thus the smoke particles perform zig-zag motion. This is called Brownian motion."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a) Below shows a mechanical model for the kinetic theory of a gas.\nSome ball bearing are kept inside a cylinder. The top of the cylinder are insulated by a piston, on top of the piston there are a weight. The bottom of the cylinder are insulated by a vibrating base which perform piston motion.\nAs the ball bearings are in motion, the mean separation between the piston and the base is h.\n(ai) State how the value of h may be affected by increasing the frequency of vibration of the base. \n(aii) State how the value of h may be affected by adding weights to the piston.\n(aiii) State how the value of h may be affected by reducing the number of ball bearings.\n(b) Explain in terms of the kinetic theory of matter, why at constant volume, the increase in the temperature of a gas causes an increase of its pressure.",
+        "output": "(ai)h increases\n(aii)h decreases\n(aiii)h decreases\n(b) When temperature increases, the gas molecules have greater K.E. and move faster. They bombard the container wall more violently and more frequently. This causes an increase in pressure. "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A body is dropped from rest down a cliff on a planet X. After falling for 1 s,  it is 4 m below the starting point. How far below the starting point will it be after a further 4 s?\nA. 40 m\nB. 64 m\nC. 80 m\nD. 100 m",
+        "output": "D  \n\ns = ut + 0.5at^2 \u2234 (4) = (0) + (0.5)g(1)^2 \u2234 g = 8 m s^-2\ns = ut + 0.5gt^2 = (0) + (0.5)(8)(1+4)^2 = 100 m "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "An experimental set-up to find the acceleration due to gravity g. The ticker-tape timer produces 50 dots per second. A heavy ball attached to a paper tape is released from rest. \n(a) The paper tape obtained from the experiment so as follow. Consider the direction of motion of paper tape is from D>C>B>A. The distance between dot D and dot C is 0.318 m, and distance between dot B and dot A is 0.132 m. Find the average speed of the heavy ball in the interval AB and CD. Hence calculate the value of the acceleration due to gravity g obtained in this experiment.\n(b) State TWO precautions that should be taken in this experiment.\n(c) How would the result of g obtained from the experiment be affected if the metal ball was replaced by a ping-pong ball? Explain briefly.",
+        "output": "(a) u = 0.132 / 0.02*5 = 1.32 m s^-1\nv = 0.318 / 0.02*5 = 3.18 m s^-1\ng = v - u / t = 3.18 - 1.32 / 0.02 *10 = 9.3 m s^-2\n(b) (1) The ball should be heavy enough so that air resistance is negligible.\n(2) Place polystyrene tile on the ground under the ball so that the ball would not hit the floor directly.\n(c) The result of g would be smaller. Since the air resistance will become significant."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A spring balance suspended from the ceiling of a lift registers the weight of a 20 kg body as 150 N. The lift is probably\nA. ascending with uniform velocity.\nB. acsending with uniform acceleration.\nC. descending with uniform velocity.\nD. descending with uniform acceleration.",
+        "output": "D\n\nActual weight = mg = (20)(9.81) = 196 N\nThe reading of the balance 150 N is indeed the normal reaction R, represents the apparent weight.\n\u2234R < mg \u2234direction of acceleration is downwards\n\u2234The lift is descending with uniform acceleration."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A block X of mass 0.5 kg sliding down a plane inclined at an angle of 30\u00b0 with the horizontal. The plane is composed of two portions made of different materials. They join at B. The speed-time relation of the block is as below.\nP: At time = 0, speed = 0.80 m s^-1\nQ: At time = 1 s, speed = 0.80 m s^-1\nQ to R: speed linearly decrease \nR: At time = 2.5 s, speed = 0 m s^-1\nPQ denotes the motion of the block in portion AB while QR denotes the motion in portion BC.\n(a) Find \n(ai) the resultant force, and\n(aii) the frictional force\nacting on the block X in the portion AB of the inclined plane.\n(b) From the relation above, find \n(bi) the acceleration of, and\n(bii) the distance travelled by\nthe block X in the portion BC of the inclined plane.\n(c) If the block X is projected upwards from point C along the inclined plane with a certan inital speed, sketch the speed-time graph of the upward motion. (Assume the block passes through point B.)",
+        "output": "(ai) Acceleration = slope = 0\nResultant force = 0\n(aii) Frictional force = mg sin \u03b8\n= (0.5)(9.81) * sin 30\u00b0\n= 2.45 N\n(bi) acceleration = slope \n= (0 - 0.8) / (2.5 - 1)\n= - 0.53 m s^-2\n(bii) distance travelled = area\n= (0.5)(0.8)(1.5)\n= 0.6 m\n(c) Negative slope drawn at I, Turning point drawn when the block passes B, Negative slope drwan at II, Slope of I is steeper than that of II (since the friction at BC is greater, the deceleration of the block at I is greater that that at II)"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "If a mass of 2 kg is placed at a distance of 2 cm (on the leftside of) the fulcrum F, which of the following cases could keep the light rod in equilibrium?\nP: 1 cm on the rightside of F\nQ: 1 cm on the rightside of P\nR: 2 cm on the rightside of Q\n(1) a mass of 4 kg placed at P\n(2) a mass of 2 kg placed at Q\n(3) a mass of 1 kg placed at R\nA. (1) only\nB. (1) & (3) only\nC. (2) & (3) only\nD. (1), (2) & (3)",
+        "output": "D\n\nMoment of 2 kg mass about F = 2 * 2 = 4\n(1) correct: Moment of 4 kg mass about F  = 4 * 1 = 4 = Moment of given mass about F\n(2) correct: Moment of 2 kg mass about F = 2 * 2 = 4 = Moment of given mass about F\n(3) correct: Moment of 1 kg mass about F = 1 * 4 = 4 = Moment of given mass about F"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A concrete block of total mass 4000 kg is slowly lowered into the sea by a machine. The heavy arm AB of the machine is 15 m long and is kept in a horizontal position by a cable CD. (A is farer from the body of the machine than B, C is between AB) \n(a) What is the moment of the weight of the concrete block acting about B? (State whether the moment is clockwise or anticlockwise.) \n(b) What other forces acting on the heavy arm AB can also produce moments about B?\n(c) Find the tension in the cable AB if the block is lowered with\n(ci) uniform velocity of 2 m s^-1, \n(cii) downward uniform acceleration of 2 m s^-2.",
+        "output": "(a) Moment = (4000 * 9.81) * (15)\n= 588600 N\nThe moment is anticlockwise\n(b) Tension in wire CD\nWeight of AB\n(ci) Tension = mg = 4000 * 9.81\n= 39240 N\n(cii) mg - T = ma\n\u2234(4000) *(9.81) - T = (4000) * (2)\n\u2234 T = 31240 N"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "An object is thrown vetically upwards with initial speed u. Which of the following options represents the variation of its kinetic energy E_k with time t?\nA. At time = 0, E_k > 0. Between time = 0 and time = t, E_k linearly decrease. At time = t, E_k = 0. After time = t, E_k linearly increase.\nB. At time = 0, E_k > 0. Between time = 0 and time = t, E_k decrease. At time = t, E_k = 0. After time = t, E_k increase. The variation curve is in parabolic shape. \nC. At time = 0, E_k > 0. Between time = 0 and time = t, E_k increase. At time = t, E_k > E_k when time = 0. After time = t, E_k decrease. The variation curve is in parabolic shape. \nD. At time = 0, E_k > 0. Between time = 0 and time = t, E_k linearly increase. At time = t, E_k > E_k when time = 0. After time = t, E_k linearlt decrease.",
+        "output": "B\n\nAt t = 0, the kinetic energy is the greatest. At the topmost point, the object is instantaneously at rest, thus the kinetic energy = 0 at the highest point. When the object moves down, the kinetic energy increases again. Kinetic energy against time is a quadratic curve."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A block of wood of mass 3.0 kg slides on a rough horizontal surface of uniform friction with an initial speed of  0.8 m s^-1. It is brought to rest after travelling a distance of 2.0 m.\n(a) Find the work done by the block in overcoming friction.\n(b) What is the frictional force acting on the block?\n(c) Find the time taken by the block for the journery.\n(d) Roughly sketch a graph of the kinetic energy (E) of the block against the distance travelled (s) by the block. Write down the equation of the graph.",
+        "output": "(a) W_t = (0.5)(m)(u^2)\n= (0.5) * 3 * (0.8)^2\n= 0.96 J\n(b) W_t = f * s\n(0.96) = f * 2\n\u2234f = 0.48 N\n(c) By f = m * a \n\u2234(-0.48) = 3a \u2234a = -0.16 m s^-2 OR \u2234(0.48) = 3a \u2234a = 0.16 m s^-2\nBy v = u + a * t \u22340 = (0.8) + (-0.16)(t)\n\u2234t = 5 g\n(d) At s = 0, E = 0.96 J. At s = 2 m, E = 0. Between s = 0 and s = 2 m, E linearly decrease\nEquation: KE = 0.96 - 0.48 s"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "When a constant unbalanced force is applied to a particle, which of the following will change with time?\n(1) The acceleration of the particle\n(2) The momentum of the praticle\n(3) The kinetic energy of the particle\nA. (1) only\nB. (3) only\nC. (1) & (2) only\nD. (2) & (3) only",
+        "output": "D\n\n(1) wrong: Constant net force -> constant acceleration (by Newton's Second Law)\n(2) correct: Constant acceleration -> varying velocity -> varying momentum (m v)\n(3) correct: Constant acceleration -> varying velocity -> varying kinetic energy (0.5 m v^2)"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A metal sphere of mass 0.4 kg is released from a height of 0.45 m onto a marble floor. It rebounds to a height of 0.2 m. Assume air resistance is negligible.\n(a) Calculate the velocity (magnitude and direction) of the sphere just before and after impact.\n(b) If the sphere is in contact with the floor for 0.01 s, what is the magnitude of the normal reaction force exerted by the floor on the sphere during impact?\n(c) What is the difference in the kinetic energy of the sphere just before and after impact with the floor? Briefly account for this difference. \n(d) Sketch a graph showing the variation of the velocity of the sphere with time, starting at the time that the ball is released to the time that the ball reaches its maximum height after the first impact. No need to mark the values. (Take velocity in the downward direction to be positive.)",
+        "output": "(a) mgh =  (0.5)mv^2\n\u2234v = \u221a(2gh)\nVelocity before impact = \u221a(2*9.81*0.45) = 2.97 m s^-1 (downwards)\nVelocity after impact =  \u221a(2*9.81*0.2) = 1.98 m s^-1 (upwards)\n(b) R - mg = (mv - mu) / t\nR - (0.4)(9.81) = [(0.4)(1.98) - (0.4)(-2.97)] / 0.01\nR = 202 N\n(c) \u0394KE = 0.5mv^2 - 0.5mu^2\n= 0.5(0.4)(2.97)^2 - 0.5(0.4)(1.98)^2 = 0.98 J\nKE decreases since some kinetic energy changes to internal energy during impact. OR the collision is not elastic.\n(d) At time = 0, v = 0. Then v linearly increase. At time = t, v changed from positive to negative. Then v linearly increase and after some time, v = 0. "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Two small ballls A and B are launched simultaneously from the top of a building. A is projected horizontally with an initial velocity of 10 m s^-1 and B is projected at an angle of 60 \u00b0 above the horizontal with an initial velocity of 20 m s^-1. The motion of both A and B is in the same plane and air resistance is negligible. Which of the following statements is/are correct when they are travelling in air?\n(1) Balls A and B travel equal vertical distances in equal times.\n(2) Balls A and B travel equal horizontal distances in equal times.\n(3) Balls A and B never meet.\nA. (1) only\nB. (3) only\nC. (1) & (2) only\nD. (2) & (3) only",
+        "output": "D\n\n(1) wrong: Vertical speed of A = 0 m s^-1; Vertical speed of B = 20 * sin 60\u00b0 = 17.3 m s^-1. Different initial vertical speed -> travel different vertical distance in equal times\n(2) correct: Horizontal speed of B = 20 * cos 60\u00b0 = 10 m s^-1 = Horizontal speed of A. Same initial horizontal speed -> travel same horizontal distance in equal times\n(3) correct: Balls A and B experience same acceleration due to gravity but different initial speed -> B is always above A \u2234They never meet"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A ping-pong ball is struck at the point A, which is 0.40 m vertically above the edge X of the table. The ball then moves with a horizontal velocity u. It then just passes the net to reach the table at point B. After rebounding from the table, it reaches the highest point C, which is 0.25 m above the table. The length of the table XY is 2.70 m. The net is 0.15 m high and it is placed exactly at the middle of the table. Take g to be 10 m s^-1. Neglect the effect of air resistance.\n(a) Calculate the initial velocity u of the ping-pong ball.\n(b) Calculate the speed of the ball just before it hits the table at B.\n(c) If point C is at 0.25 m above the table, draw the graph of vertical velocity v_y, of the ball against time form A to C. Take downward direction as positive. (t_A, t_B and t_C on the time axis are the times when the ball is at A, B and C respectively.)",
+        "output": "(a) By y = 0.5 g t^2 (consider the motion from A to the net)\n\u2234(0.40 - 0.15) = 0.5 (10) t^2\n\u2234 t = 0.224 s\nBy x = u t\n\u2234 (1.35) = u (0.224)\n\u2234 u = 6.03 m s^-1\n(b) Conservation of energy from A to B:\n\u2234 0.5 m u^2 + mgh = 0.5mv^2\n\u22340.5m(6.03)^2 + m*10*0.40 = 0.5 m v^2\n\u2234v = 6.66 m s^-1\nOR\nBy v_y^2 = u_y^2 + 2as\n\u2234 v_y^2 = 0 + 2(10)(0.4)\n\u2234v_y = 2.929 m s^-1\n\u2234v = \u221a((6.03)^2 + (2.828)^2) = 6.66 m s^-1\n(c)Before collision (From t_A to t_B) slope = v_y = \u221a(2 * 10 * 0.4) = 2.8 m s^-1\nAfter collision (From t_B to t_C) slope = v_y = \u221a(2 * 10 * 0.25) = 2.2 m s^-1\nUniform acceleration from t_A to t_B and t_B to t_C\nAt  t_B v_y from 2.8 m s^-1 to -2.2 m s^-1\n"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "In corners of some racing tracks for motor cars, the tracks are banked at an angle to the horizontal. Which of the following is/are the advantage(s) for this feature?\n(1) To reduce the friction between the car and the track.\n(2) To reduce the radius of curvature of the track that a car can travels safely at a given speed.\n(3) To increase the component of the weight of the car towards the centre of its path.\nA. (1) only\nB. (3) only\nC. (1) & (2) only\nD. (2) & (3) only",
+        "output": "C\n\n(1) correct: Horizontal component of the normal reaction R sin \u03b8 can be used to provide the centripetal force, thus the need of frictional force for providing the centripetal force is reduced.\n(2) correct: The horizontal component of the normal reaction helps to provide the centripetal force, thus the centripetal acceleration can be increased. As a = v^2 / r, the increase of centripetal acceleration a can give a smaller radius of curvature r of a circular path.\n(3) wrong: As the direction of the weight is vertical, it can never give a horizontal component to provide the centripetal acceleration which is horizontal."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A man of mass 80 kg standing against the wall of a cylindrical compartment called a 'rotor'. The level of the rotor's floor can be adjusted. The diameter of the rotor is 6.4 m. The rotor is spun at a certain angular speed about its central vertical asix. At this angular speed, the man inside remains 'pinned' against the wall even if the floor of the rotor is pulled downwards. There are forces F_A acting upwards, F_B acting towards the rotor's central vertical axis and weight on the man when the rotor is spinning. \n(a) Name the forces F_A and F_B action on the man.\n(b) It is known that the maximum value of F_A equals 0.4 F_B. Find the minimum angular speed, in rad s^-1, of the rotor that needed to keep the man 'pinned' against the wall.\n(c) If the mass of the man is greater than 80 kg, would the result in (b) increase, decrease or remain unchanged? Explain briefly.\n",
+        "output": "(a) F_A: friction, F_B: normal reaction\n(b) F_A = mg\nmaximum F_A = 0.4 F_B\n\u2234mg = 0.4 * m r \u03c9^2\n\u2234(9.81) = 0.4 * (3.2)\u03c9^2\n\u2234\u03c9 = 2.77 rad s^-1\n(c) The result is unchanged. As the centripetal force is proportional to maximum F_A which is equal to the weight mg, the minimum angular speed is independent of the mass m."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Two identical spheres, each of mass M and radius r are in contact. One sphere is displaced by a distance 4r, along the line of centres, away from the first sphere. What is the ratio of the final gravitational force between the sphere to the initial gravitational force between them?\nA. 1 : 3\nB. 1 : 9\nC. 1: 16\nD. 1 : 25",
+        "output": "B\n\nF = (G M M) / r^2  propotional to 1 / r^2\nF_2 / F_1 = (r_1 / r_2)^2 = [(r + r) / (r + 4r + r)]^2 = 1/9"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a)Billy and Lily have heard about the possibility of placing a communication satellite in an orbit such that it remains vertically above the same place on the surface of the Earth. Comment on each of the following statements.\n(1) Bily said, \"The satellite must be so far away that is is not affected by the Earth's gravity.\"\n(2) Lily said, \"There is a communication satellite directly above Hong Kong.\"\n(b) Newton once argued that if a canon-ball were fired horizontally at high enough speed from any point on the Earth surface, it would eventually return and strike the cannon from behind, by considering the Earth to be a non-rotating sphere.\n(bi) Take the radius of the Earth to be 6400 km, and assume that the canon-ball moves close to the Earth's surface, what would be the least time for it to arrive the canon again?\n(bii) Give any three reasons with brief explanations that in reality, why the canon-ball would not arrive at the canon again.",
+        "output": "(a)(1) Billy is wrong, since the satellite moves in circular orbit, it needs a centripetal force to provide its centripetal acceleration, so it must be in the Earth's gravitational field so that the gravitational force provides the centripetal force.\n(2) Lily is wrong, since the orbit of a communication satellite must be on the equatorial plane of the Earth, but Hong Kong is not at the equator, thus no communication satellite is directly above Hong Kong.\n(bi) mg =  mv^2 / R\nv = \u221a(gR) =  \u221a(9.81*6.4*10^6) = 7924 m s^-1\nTime: T = 2\u03c0R / v = 2\u03c0 * 6.4*10^6 / 7924 = 5070 s\nOR\nmg = mR\u03c9^2 = mR(2\u03c0/T)^2\nT = 2\u03c0\u221a(R/g) =  2\u03c0\u221a(6.4*10^6/9.81)\n=5070 s\n(bii) Reasons:\nEarth is not a perfect shere: g varies over the Earth's surface\nEarth rotates: when canon-ball comes back, the canon may have moved to a different location.\nAir resistance may reduce the speed of the canon-ball, thus the speed cannot be constant.\nThe canon may hit high buildings (OR high mountains), thus it cannot reach the final position."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A transverse wave is travelling steadlily from left to right through a series of particles. At a certain instant the wave form is similar to a sine wave. Particle P at the moment is at crest position, Particle Q is in equilibrium position and particle R is at trough position. Which of the following statements about the particles is/are correct?\n(1) Particle P is moving down.\n(2) Particle Q is moving up.\n(3) Particle R is momentarily at rest.\nA. (1) only\nB. (2) only\nC. (1) & (2) only \nD. (2) & (3) only",
+        "output": "D\n\n(1) wrong: P is at the crest postion, thus it must be momentarily at rest.\n(2) correct: Draw the dotted line representing the wave at a later instant, Q is moving upwards\n(3) correct: R is at the trough position, thus it must be momentarily at rest."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A transverse wave is travelling steadlily from left to right through a series of particles. At a certain instant the wave form is similar to a sine wave. Each of the vibrating particles is observed to perform four complete oscillations is 16 s. P is at equilibrium position at the instant. Consider P is the origin and each 10 grid is 2 cm, and (1, 1) is 1 grid higher than P and 1 grid to the direction of wave motion from P.\nQ is at crest position and located at (10, 10)\nR is at equilibrium position and located at (20, 0)\nS located at (23.5, -5)\nT located at (36.5, -5)\n(a) Find the following quantities:\n(ai) the amplitude of the wave,\n(aii) the wavelength\n(aiii) the period,\n(aiv) the frquency\n(b) At the instant, which of the particles P, Q, R, S, T is/are\n(bi) moving upwards,\n(bii) moving downwards\n(biii) momentarily at rest?\n(c) What will be the position of particle Q a quater of a period later?",
+        "output": "(ai) A = 2 cm\n(aii) \u03bb = 8 cm\n(aiii) T = 4 s\n(aiv) f = 0.25 Hz\n(bi) R, S\n(bii) P, T\n(biii) Q\n(c) Q is at 2 cm below its persent position "
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A train of water waves is travelling from a deep water region to a shallow water region. Which of the followng properties of the water waves will be changed?\n(1) wavelength\n(2) frequency \n(3) velocity\nA. (1) only\nB. (3) only\nC. (1) & (3) only\nD. (2) & (3) only",
+        "output": "C\n\n(1) correct: From deep to shallow water region, the wavelength would decrease\n(2) wrong: The frquency would remain unchanged during refraction\n(3) correct: The velocity would decrease when water wave travels fron deep to shallow water region."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a) What are the uses of the following parts of a ripple tank in wave experiments?\n(ai) a dot vibrator\n(aii) the shallow portion of the tank\n(aiii) the spongy lining around the edge of the tank\n(b) In a ripple tank experiment, wave are generated by a straight vibrator in the deep portion of the tank. The wave are parallel with the vibrator and two side of the tank. There is a reflecting barrier of the lenght of half of the width of the tank at the intersection of two portion that separate them. \n(bi) Sketch the wave pattern at the shallow portion of the tank.\n(bii) What phenonmena occur in the shallow portion of the tank?",
+        "output": "(ai) To act as a point source for producing circular wavefront.\n(aii) To show the phenomenon of refraction.\n(aiii) To absorb the waves and prevent the rebounding of waves at the edges.\n(bi) wavefronts closer together, waves spread out, circular wavefronts shown. \n(bii) Diffraction and refraction occurs."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A fixed object is placed in front of a plane mirror. If the mirror moved 0.10 m away from the fixed object, how far will the image move?\nA. 0.05 m\nB. 0.10 m\nC. 0.20 m\nD. 0.40 m",
+        "output": "C\n\nMirror is moved 0.10 m away -> Object distance increased by 0.10 m and image distance increased by 0.10 m -> Distance between object and image increases by 0.20 m -> Image moves by 0.20 m (for a fixed object)"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A ray of light entering a semi-circular plastic block in direction AO and is refracted into the air along OE. Part of the light is then reflected along OB. A set of readings for different angles \u03b8 and \u03c6 are measured. \u03b8 is the angle of incidence, \u03c6 is the angle of refraction. The results are tabulated as follows:\n\u03b8: 10\u00b0, 15\u00b0, 20\u00b0, 25\u00b0, 30\u00b0\n\u03c6: 16.1\u00b0, 24.5\u00b0, 33.2\u00b0, 42.5\u00b0, 53.1\u00b0\n(ai) Plot the graph of sin \u03c6 (vertical axis) against sin \u03b8(horizontal axis) on a piece of graph paper using a scale of 1 cm to 0.05.\n(aii) Find the slope of the graph and state it's physical meaning\n(aiii) Calculate the critical angle of the plastic. \n(b) Briefly describe the change in brightness of\n(bi) the refracted ray OE and \n(bii) the reflected ray OB, as angle \u03b8 is gradually increased from 0\u00b0 to nearly 90\u00b0.\n(c) Describe briefly ONE application of total internal reflection in everyday life.",
+        "output": "(ai) sin \u03b8: 0.17, 0.26, 0.34, 0.42, 0.5\nsin \u03c6: 0.28, 0.41, 0.55, 0.68, 0.80\nCorrect label of axis, Correct scale, Straight line\n(aii) Slope = 0.8 / 0.5 = 1.6\nThe slope is equal to the refractive index of the plastic.\n(aiii) sin c = 1/ n = 1/ 1.62 \u2234c = 38.1\u00b0\n(bi) Brightness of OE gradually decreases and the brightness becomes zero after \u03b8 = c\n(bii) Brightness of OB gradually increases and then becomes very bright after \u03b8 = c\n(c) Optical fibres used in telecommunication OR Endoscope to examine the internal organs of patient"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A convex lens is used to form an image of a bright object on a screen. The effect of covering the top half of the lens with a card is to\nA. remove the top half of the image.\nB. remove the bottom half of the image.\nC. make the image smaller.\nD. make the image dimmer.\n",
+        "output": "C\n\nCovering top half of the lens means that only half of the lens can refract light to form the image. Therefore, less light passes through the lens, thus the image becomes dimmer. However, the shape and size of image remain unchanged, that is, the whole image can still be seen."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "An optical device represented by A is capable of forming an image I of a given object O. The image is larger than the object and farer from A than that of the object.\n(a) What is the optical device as represented by A?\n(b) State whether the image formed is real or virtual.",
+        "output": "(a) A is a convex lens OR converging lens\n(b) The image is virtual."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "An electromagnetic wave has a frequency of the order of 10^16 Hz. What should be the type of the electromagnetic wave? Given that the speed of light in vacuum is 3 * 10^8 m s^-1.\nA. infra-red rays\nB. visible light\nC. ultra-violet rays\nD. X-rays",
+        "output": "C\n\nv = f\u03bb\n\u2234(3*10^8) = (10^16)\u03bb\n\u2234\u03bb = 3*10^-8 m\n\u2234The wave is in the range of ultra-violet rays."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a)An experimental set-up to study the interference of 3 cm microwave. Microwave emitted from a transmitter at T pass through two narrow slits A and B where TA = TB. The microwave are picked up by a receiver at X where XA = XB. The receiver is connected to a loudspeaker through an amplifier. The loudness of sound from the loudspeaker indicates the intensity of the microwaves received.\n(ai) What is the frequency of the microwaves?\n(aii) What is the path difference of the microwaves from A and B at X?\n(aiii) Are the waves at constructive or destructive interference at X?\n(aiv) Would the sound from the loudspeaker be loud or soft?\n(av) Describe briefly the variation of the loudness of the sound from the loudspeaker when the receiver is being moved along XY.\n(b) Another experimental set-up using the same microwave transmitter and receiver. 3 cm-microwaves are emitted from the transmitter. A meatal plate M is the moved from P to Q. The transmitter and receiver are placed next to each other. Describe the variation of the loudness of the sound from the loudspeaker. Explain brieftly with the aid of a diagram.\n(c) Give two examples of application of microwaves.\n",
+        "output": "(ai) v=f\u03bb\n3*10^8 = 0.03f\nf=10^10 Hz\n(aii) path difference=0\n(aiii)constructive interference\n(iv)loud\n(v)Along XY, loud and soft sounds are heard alternately\n(b)As M moves, the intensity of sound increases to a maximum and then decreases again as it approaches Q. When M is mid-way between  P and Q, microwaves emitted from the transmitter is reflected by M and collected by the reciver.\n(c)Radar, Microwave oven, Satellite communication, Mobile phone"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Which of the following statements is/are correct?\n(1) Sound waves cannot be diffracted.\n(2) A louder sound travels faster in air.\n(3) Sound travels faster in water than in air.\nA. (1) only\nB. (3) only \nC. (1) & (2) only\nD. (2) & (3) only",
+        "output": "B\n\n(1) wrong: All waves, including sound waves, posses all the four phenomena, including diffraction\n(2) wrong: Speed of sound is independent of its intensity or loudness, but depends on medium only.\n(3) correct: Sound wave travels fater in liquid than in gas or air"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Explain the following phenomena:\n(a) In a thunderstorm, lightning is seen before thunder is heard.\n(b) Sound waves can bend around a corner but light cannot.",
+        "output": "(a) The speed of light in air is much higher than that of sound.\n(b) The wavelength of light is much smaller than that of sound. Thus the degree of diffraction of light is much smaller."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The following are the steps to charge an isolated metal sphere by induction, but they are in the wrong order. \n(1) Removing the finger away from the metal sphere.\n(2) Touching the metal sphere with a finger.\n(3) Bringing a positivelt charged rod near the metal sphere.\n(4) Removing the positively charged rod away from the metal sphere.\nWhich of the following shows the correct order?\nA. (2),(3),(4),(1)\nB. (3),(2),(1),(4)\nC. (3),(2),(4)(1)\nD. (3),(4),(2),(1)",
+        "output": "B\n\n(3):(-) charges are induced on the sphere at the side near the rod while (+) charges appear at the far side\n(2): electrons flow from the earth to the sphere to nautralize the (-) charges\n(1): the finger must be removed first before the removing of the charged rod\n(4): after the rod is removed, the sphere becomes (-) charged."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Two aluminium foils held by plastic clips and a negatively charged plastic block. They are used for charging the aluminium foils by induction.\n(a) Describe the steps taken in charging the aluminium foils.\n(b) What type of charge is induced on the aluminium foils?\n(c) Explain briefly why the clips should be insulator but not a conductor in this experiment.",
+        "output": "(a) Place the aluminium foils near the plastic block. Touch the foil momentarily with a finger. Then remove the block.\n(b) positive charge\n(c) If the clip is a conductor, the induced charge would escape through the clip and the hand."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Suppose that it takes 8 minutes to boil a kettle of water. If the heating coil of the kettle is shortened to hald its original length and the supply voltage remains unchanged, then to boil the same amount of water will take\nA. 16 min\nB. 8 min\nC. 4 min\nD. 2 min",
+        "output": "C\n\nAs the length is halved, the resistance of the heating coil is also halved\nSince R proportional to l \u2234 R -> 0.5R\nPower: P = V^2 / T \u2234P proportional to 1/R \u2234P -> 2P\nSince E = Pt, as same energy is required for boiling,\n\u2234P -> 2P => t-> 0.5t\n\u2234Time taken = 8 * 0.5 = 4 min"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Using the following apparatus, battery, crocodile clips, ammeter, thin nichrome wire, thick nichrome wire. Describe the procedures of an experiment to study how the resistance of a nichrome wire depends on its thickness. ",
+        "output": "Connect the two crocodile clips across a certain length of the thin nichrome wire. Record the ammeter reading. Repeat the experiment using the thicker nichrome wire of the same length. The ammeter reading should be larger, showing that the resistance of the thicker wire is smaller"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The table below shows the voltage and power rating for various electrical appliances. Which of the electric appliances has the smallest working resistance?\nAppliance, Voltage, Power/W\nA. Air-conditioner, 200, 2000\nB. Television, 200, 250\nC. Heater, 100, 2000\nD. Hair-dryer, 100, 20",
+        "output": "C\n\nBy R = V^2 / P\nA. (200)^2 / (2000) = 20 \u03a9\nB. (200)^2 / (250) = 160 \u03a9\nC. (100)^2 / (2000) = 5 \u03a9\nD. (100)^2 / (20) = 50 \u03a9\n"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "In a science project competition, a student constructs a hand dryer. He connect an electirc fan of rating '20W, 24V' and a heating coil to a 24 V power supply. When switch S is closed, the fan will operate at its rated value.\n(a) Are the fan and the heating coil connected in series or in parallel? Explain your answer\n(b) If the output power of the heating coil is 200 W, find \n(bi) the operating resistance of the heating coil,\n(bii) the total current drawn from the power supply when S is closed.",
+        "output": "(a) The fan and the heating coil are connected in parallel. So that they can operate at their rated values.\n(bi) R = V^2/R = 24^2/200 = 2.88 \u03a9\n(bii) I = P/V = (20/200)/24 = 9.17 A"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Which of the following will be deflected by a magnetic field?\n(1) Electromagnetic waves\n(2) A beam of electrons\n(3) A beam of protons\nA. (3) only\nB. (1) &  (2) only\nC.  (2) & (3) only\nD. (1), (2) & (3)",
+        "output": "C\n\nCharged particles will be deflected by a magnetic field.\n(1) wrong: Electromagnetic waves: contain no charged particles\n(2) correct: Beam of electrons: negatively charged particles\n(3) correct: Beam of protons: positively charged particles"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a) Particles with the speed v of 1.63*10^7 m s^-1 are directed into an evacuated region with a uniform magnetic field B of 0.5 T perpendicular to the initial velocity of the particles. Given that the charge to mass ratio of a particle is 4.82*10^7 C kg^-1, find the radius of the path described by the particles in the field region.\n(b) Explain whether the particles would emerge with a greater speed from the region of magnetic field.",
+        "output": "(a) BQv = mv^2 / r \u2234(Q/m)Br = v\n\u2234(4.82*10^7)(0.5)r = 1.63*10^7\n\u2234r = 0.676 m\n(b) No. Since the magnetic force acting on the particle is always perpendicular to its velocity, no work is done on the particle by the magnetic force."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Which of the following correctly shows the major energy change in the device when it is working?\nDevice, From, To\nA. A microphone, electrical, sound\nB. A loudspeaker, sound, electrical\nC. A dynamo, electrical, electrical\nD. A motor, electrical, mechanical",
+        "output": "D\n\nA wrong: microphone: sound energy -> electrical energy\nB wrong: loudspeaker: electrical energy -> sound energy\nC wrong: dynamo: mechanical energy -> electrical energy"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A retort stand made of iron are placed on top of a coil. The coil is connected to a d.c. supply via a switch S. When the switch is pressed on, the aluminium ring placed on top of the coil jumps up momentarily and then falls back to the top of the coil. \n(a) Briefly explain this observation.\n(b) If now the d.c. supply is replaced by an a.c.supply.\n(bi) What would be observed if the switch is closed?\n(bii) Suggest a practical use of this experimental result.\n(biii) The heat capacity of the ring is 7.8 J K^-1 and its temperature is found to rise from 25\u00b0C to 40\u00b0C during the first 50 s when the a.c. supply is on. Find the average rate of increase in internal energy of the ring.",
+        "output": "(a)When S is closed, current starts to flow in the coil and produces magnetic field.Thus an increase of the magnetic field occurs through the ring. By Lenz Law, an eddy current is induced in the ring to oppose the change. Opposing magnetic force acts on the ring to make it jump up momentarily. However, when the current reaches its steady value, no change of field results and the ring falls back.\n(bi) The ring will float steadily above the coil in air.\n(bii) Practical use: magnetic levitaion of a train\n(biii) Rate of increase in internal energy = 7.8*(40-25) / 50 = 2.3 J s^-1"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "What is/are the advantage(s) of using high voltage in power transmission over long distances?\n(1) Current in the transmission cables can be reduced.\n(2) Less energy is wasted as heat\n(3) Higher voltage can be used in household circuit.\nA. (1) only\nB. (3) only\nC. (1) & (2) only\nD. (2) & (3) only",
+        "output": "C\n\n(1) correct: If high voltage is used, the current through the transmission cables would be small by P = VI \n(2) correct: By P = I^2 R, I decrease, P_loss decrease, less energy is wasted as heat during the transmission of power\n(3) wrong: Voltage in power transmission >> voltage in household circuit, voltage need to be stepped down."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A block diagram showing how electric power is supplied to consumers:\nsources of energy -> generators -> transformers -> consumers\n(a) One source of energy is from wind. State the conversion of energy in the generators and describe how the energy conversion is possible.\n(b) Why is the effieciency of a transformer always less than 100%? Mention one method of improving transformer efficiency\n(c) Explain why a 40 W fluorescent tube appears to be brighter than a 40 W filament lamp.",
+        "output": "(a) Energy conversion in a generator is from kinetic energy to electrical energy. It is achieved by the wind driving the coil into rotation inside a magnetic field\n(b) There is energy loss due to eddy current, Use laminated core\n(c) In a fluorescent tube, less energy is wasted as heat."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The corrected count rate of a sample of radioactive material was measured on the first day of each month. The readings on July 1 and September 1 are 0.8 and 0.2 counts per second respectively. What is the half-life of the radioactive material?\nA. 7 days\nB. 16 days\nC. 31 days\nD. 46 days",
+        "output": "C\n\nCorrected count rate: 0.8 -> 0.4 -> 0.2\nAs in between July 1 and September 1, there is 62 days, Half-life = 62/2 = 31 days"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "To investigate the kind(s) of radiation emitted by a radioactive source, a Geiger-Muller counter is placed close in front of the source and sheets of different absorbs are placed in turn between the source and the counter. Three readings are taken at one-minute intervals for each absorber. The following results are obtained: \nAbsorber, Recorded count rate/ counts per minute:[1 st reading, 2 nd reading 3 rd reading]\n-, [700, 710, 693]\nPaper, [702, 703, 701]\n1 mm Aluminium, [313, 320, 317]\n5 mm Lead, [98, 101, 100]\nThe background count rate recorded by the counter is 100 counts per minute.\n(a) Explain why the three readings for each absorber are not identical.\n(b) Explain how the above results show that the source emits \u03b2 radiation only and it does not emit \u03b1 and \u03b3 radiation.",
+        "output": "(a) This is due to the random nature of radiation.\n(b) As the count rates remain unchanged when a sheet of paper is inserted, the source does not emit \u03b1 radiation.\nAs the count rates drop significantly when 1 mm aluminium sheet is inserted, the source emits \u03b2 radiation.\nAs the count rates drop to background radiation when 5 mm lead is inserted, the source does not emit \u03b3 radiation."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The atomic structure of isotopes of the same element differ from each other by having different numbers of\nA. electrons\nB. neutrons\nC. electrons and protons\nD. electrons and neutrons",
+        "output": "B\n\nIsotopes have different number of neutrons but have same number of protons, so as the electrons."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a) A factory aims at producing aluminium sheets of 1 mm thickness. A radioactive source and a detector is used to monitor the thickness of the aluminium sheet manufactored. \n(ai) State what type of source (\u03b1, \u03b2 or \u03b3) should be used.\n(aii) Explain briefly why the other two types of source are not used.\n(b) Give TWO other applications of radioactivity.",
+        "output": "(ai) \u03b2 should be used.\n(aii) \u03b1 is not used because it is totally absorbed by the aluminium sheet OR because its penetrating power is too weak that it cannot pass through aluminium sheet.\n\u03b3 is not uesd because the count rate would not be affected significantly by the aluminium sheet. OR because its penetrating power is too strong that almost all \u03b3 will pass through the sheet.\n(b) radiotherapy, estimate the age of archaeological samples, medical tracer, sterillization, leakage test of underground oil pipes, smoke detection"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The main reason why a chain reaction can occur in a nuclear reactor using uranium-235 is that \nA. a large quantity of energy is evolved in each fission.\nB. the products of nuclear fission are highly radioactive.\nC. Plutonium is produced and it undergoes further fission.\nD. more than 1 neutron is produced when a nucleus undergoes fission.",
+        "output": "D\n\nNeutrons can trigger the further fissions of the remaining U-235 nuclei, thus maintain the chain reaction"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "In 1986, a disastrous nuclear accident happened at the Chernobyl Nuclear Station. A large amount of radioactive substance was released and spread to neighbouring countries. The radiation levels recorded in these countries were much higher than the normal background count rate. \n(a) State two sources of background radiation.\n(b) State one way by which the radioactive substances released in the accident were spread to neighbouring countries.\n(c) One of the radioactive isotopes released in the accident was caesium-137 (Cs-137). The following equation show how Cs-137 is produced: ^295_92U + ^1_0D -> ^137_xCs + ^y_37Rb / z ^1_0n\n(ci) If z = 4, find the values of x and y and state their physical meanings.\n(cii) The half-life of Cs-137 is 30 years. Suppose that a soil sample contaminated by Cs-137 is 30 years was found to have an initial activity of 1.2*10^6 Bq (disintegrations per second). A physicist comments that the contaminated sample will affect the environment for more that 300 years. Justify the physicist's claim with calculations. You may assume that the activity of a non-contaminated sample of similar nature is 200 Bq.\n(d) The development of nuclear energy is a controversial issue. Do you support the development of nuclear energy? Satate the reasoning to support your point of view.",
+        "output": "(a) Cosmic radiation from the space, Radiation from rocks, Radiation in air, Radiation from food, Radiation from our body\n(b) by wind, by rain, by water in river, by imported food\n(ci) x = 92 - 37 = 55\ny = 235 + 1 - 137 - 4 = 95\nx is the atomic number of Cs, y is the mass number of Rb\n(cii) Number of half-life in 300 years = 10\nActivity after 10 half-lives = (1.2*10^8) * (0.5)^10 = 1172 Bq\nAfter 300 years, the activity is still higher than that of non-contaminated sample, ths his claim is correct\nOR\nBy A = A_0(0.5)^(t/t_0.5)\n(200) = (1.2*10^6)*(0.5)^(t/30)\nt = 377 years\nA time longer than 300 years is required for the activity to drop to safe level, thus his claim is correct\n(d) Any reasonable answers."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Which of the following celestial bodies is NOT revolving around the Sun?\nA. Dwarf planet\nB. Moon\nC. Comet\nD. Meteoroid",
+        "output": "B\n\nA yes: Dwarf planet, similar to the eight large planets, are revolving around the Sun.\nB no: Moon is satellite, must be revolving around a planet.\nC yes: Comet revolves around the Sun in elliptical orbits\nD yes: Meteoriod, comes from comets or asteroids, are orbiting around the Sun."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The closest distance of a comet from the Sun is 32.5 AU and the farthest distance is 52.9 AU. What is its orbital period?\nA. 12.2 years\nB. 185 years\nC. 279 years\nD. 385 years",
+        "output": "C\n\nSemi-major axis: a=(32.5+52.9) / 2 =42.7 AU\nBy Kepler's third law of planetary motion: T^2 proportional to a^3\nCompared with the Earth that has period of 1 year and semi-major axis of 1 AU.\n(T_1/T_2)^2 = (a_1/a_2)^3\n(T_1/1)^2 = (42.7/1)^3 \nT_1 = 279 years"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The moon orbits the earth once every 27.3 days, with a mean orbital radius or R. What is the period of an earth satellite with an orbital radius of R/30 ?\nA. 4 hours\nB. 22 hours\nC. 68 hours\nD. 260 days",
+        "output": "A\n\nBy Kepler's Third Law, T^2/R^3 = constant\n(27.3*24)^2 / R^3 = T^2 / (R/30)^3 \nT = 4 hours"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The values of gravitational potential energy of a satellite of mass 2000 kg from a planet are given in the following table:\nDistance from the surface of the planet/m, Gravitational potential energy/J\n0, -1.25*10^11\n800000, -1.11*10^11\ninfinity, 0\n(a) If the gravitational potential energy is taken to be zero at an infinite distance from the planet, the gravitational potential energy at any point closer to the planet than infinity will be negative. What property of gravitational force ensures this?\n(b) The satellite is raised from the planet's surface to a height of 800000 m above its surface.\n(bi) Find the change in gravitational potential energy of the satellite.\n(bii) Calculate the kinetic energy of the satellite when it moves round the planet in a circular orbit at such a height.\n(c) Calculate the minimum speed with which a spacecraft must be fired from the planet's surface so as to escape from it. (Neglect air resistance and assume the spacecraft itself is unpowered.)",
+        "output": "(a) Gravitational force is always attractive.\n(bi) \u0394U = (-1.11*10^11) - (-1.25*10^11) = 1.4*10^10 J\n(bii) U = -GMm / r = -1.11*10^11\nK = GMm / 2r = 1.11*10^11 / 2\n= 5.55*10^10J\n(c) KE at surface + PE at surface =  0\n0.5(2000)v^2 + (-1.25*10^11) = 0\nv = 11200 m s^-1"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A hydrogen source in a laboratory emits a line spectrum with one of the lines having wavelength 656.3 nm. For a star receding from the earth at a speed of 200 km s^-1, what would be the wavelength of the corresponding line from the star observed on the earth?\nA. 655.5 nm\nB. 655.9 nm\nC. 656.7 nm\nD. 657.1 nm",
+        "output": "C\n\n\u0394\u03bb / \u03bb = v/c \n\u0394\u03bb/656.3 = 200*10^3/3*10^8\n\u0394\u03bb=0.44 nm\nAs the star is receding from the earth, the wavelength must be longer.\n\u03bb' = 656.3 + 0.44 = 656.7 nm"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The brightness of a star W is observed to be 8.45*10^-10 W m^-2. This brightness corresponds to the apparent magnitude of 3.69. The parallax of this star is 0.572 acrsecond.\n(a) Find the distance of star W from the Earth.\n(b) Assume star W is a point source that emits light evenly in all directions, calculate its luminosity.\n(ci) Define the absolute magnitude M.\n(cii) Explain whether star W has absolute magnitude greater or smaller that its apparent magnitude.\n(d) Given that the surface temperature of star W is 12500 K, estimate its diameter.",
+        "output": "(a) d=1/p = 1/0.572 = 1.75 pc\n(b) b = L/4\u03c0d^2\n(8.45*10^-10)=L/4\u03c0(1.75*3.09*10^16)^2\nL=3.10*10^25 W m^-2\n(ci) Absolute magnitude of a star is the apparent magnitude that the star would have if it is placed at a distance of 10 pc from the Earth.\n(cii) The distance of star W is 1.75 pc. If it is placed at a further distance of 10 pc, its brightness would decreases. Thus, it would have the absolute magnitude greater that its apparent magnitude.\n(d) By Stefan's Law:\nL=\u03c3AT^4 = 4\u03c0R^2\u03c3T^4\n(3.10*10^25)=4\u03c0R^2(5.67*10^-8)(12500)^4\nR=4.22*10^7 m\nDiameter of star W = 2R = 8.44*10^7 m"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Since the beginning of the 20th century, \u03b1 particles had been used as energetic projectiles to bombard various substance to trigger reactions. Many great discoveries came from this kind of experiments. Which of the following discoveries is NOT a nuclear reaction?\nA. to the discovery of protons, \u03b1 particles were used to bombard nitrogen gas.\nB. to the discovery of neutrons, \u03b1 particles were used to bombard beryllium.\nC. In the discovery of artificial radioactivity, \u03b1 particles were used to transmute aluminium into phosphorus.\nD. In the discovery of large angle deflection, \u03b1 particles were used to bombard gold foil.",
+        "output": "D\n\nA wrong: During the bombardment, the \u03b1 particles knocks out a proton from the nucleus, so it is a nuclear reaction.\nB wrong: During the bombardment, the \u03b1 particles knocks out a neutron from the nucleus, so it is a nuclear reaction.\nC wrong: When aluminium is transmitted into phosphorus, the nucleus is changed, thus it is a nuclear reaction.\nD correct: During the collision, alpha particles are rebounded by the gold nucleus, alpha particles do not make contact with the nucleus, thus it is not a nuclear reaction."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A metal surface is illuminated with monochromatic light so that it emits photoelectrons. The maximum kinetic energy of the emitted photoelectrons depends on\n(1) the distance of the metal surface from the light source.\n(2) the work function of the metal surface.\n(3) the wavelength of the incident monochromatic light\nA. (1) only\nB. (3) only\nC. (1) & (2) only\nD. (2) & (3) only\n",
+        "output": "D\n\nE = W + K_max\nK_max = h(c/\u03bb) - W\n(2) and (3) are correct"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The metal Caesium has a work function of 2.08 eV.\n(a) Calculate the longest wavelength of visible light that can cause emission of photoelectrons from Caesium.\n(b) Light of wavelength 4.01*10^-7 m is incident on Caesium. Find the maximum kinetic energy (in eV) of photoelectrons emitted from it. ",
+        "output": "(a) Work function: W = hf_c = h(c/\u03bb_c)\n(2.08*1.6*10^-19) = (6.63*10^-34)*(3*10^8 / \u03bb_c)\n\u03bb_c = 5.98*10^-7 m\n(b) E = h(c/\u03bb) = (6.63*10^-34)*(3*10^8/4.01*10*-7)*(1/1.6*10^-19) = 3.10 eV\nK_max = E - W = 3.10 - 2.08 = 1.02 eV"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Electron transitions occur in an atom resulting in the emission of the following light wavelengths:\nfrom level C to level A: 600 nm\nfrom level B to level A: 500 nm\nWhich of the following statements is/are correct?\n(1) Level A has a lower energy than both levels B and C.\n(2) Level C has a higher energy level B.\n(3) The wavelength of light emitted for the transition between C and B is 100 nm\nA. (1) only\nB. (3) only\nC. (1) & (2) only\nD. (2) & (3) only",
+        "output": "A\n\n(1) correct: Emission for C  -> A and B -> A => A is the lowest energy level among the three\n(2) wrong: C: \u03bb\u2191=>E\u2193(by E = h(c/\u03bb))\n(3) wrong: By conservation of energy. \u0394E_AB = \u0394E_AC + \u0394E_CB \u2234hc/500 = hc/600 + hc/\u03bb \u2234\u03bb=3000nm"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The de Brogile wavelength of a rifle bullet of mass 0.02 kg which is moving at a speed of 300 m s^-1 is \nA. 7.3*10^-36 m\nB. 1.8*10^-35 m\nC. 1.1*10^-34 m\nD. 9.9*10^30 m",
+        "output": "C\n\np = mv = (0.02)(300) = 6 kg m s^-1\n\u03bb = h/p = (6.63*10^-34)/6 = 1.1*10^-34 m"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Which of the following concerning the structure of C_60 molecules is/are correct?\n(1) It has 60 vertices.\n(2) It has 90 edges.\n(3) It has 32 faces.\nA. (1) & (2) only\nB. (1) & (3) only\nC. (2) & (3) only\nD. (1), (2) & (3)",
+        "output": "D\n\n(1) correct: Each atom form a vertex, thus 60 atoms from 60 vertices.\n(2) correct: Each atom is connected to 3 other atoms, thus the number of edges = 60*3/2 = 90\n(3) correct: By Euler's formula: F + V - E = 2, the number of faces F is 32.\n"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "The end-use energy efficiency of a lamp is 35%. If the power rating of the lamp is 60 W, how much useful energy is given\nA. 575 kJ\nB. 605 kJ\nC. 792 kJ\nD. 848 kJ",
+        "output": "B\n\nP_out = 60*35% = 21 W\nE_out = 21*8*60*60 = 604800 = 605 kJ"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a) If the end-use energy efficiency of the boiler is 72%, how long will it take to heat 1.5 kg of water from 25\u00b0C to the boiling point? (Specific heat capacity of water = 4200 J kg^-1 \u00b0C^-1)\n(b) Give two reasons why the efficiency of the boiler is not 100%.\n(c) If the cost of electricity is $1.05 per kWh, how much does this heating process cost?",
+        "output": "(a) E_out = mc\u0394T=(1.5)(4200)(100-25)=472500 J\nE_in = 472500/72% = 656250 J\nBy E = Pt \u2234(656250)=(1800)t \u2234t=365 s\n(b) Some heat is lost to the surronding air. Some heat is lost to raise the temperature of the boiler.\n(c) cost = 1.8*365/3600 * 1.05\n= $0.192"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Two metal rods, A and B have length 80 cm and 40 cm, identical cross-sectional areas and are joined end-to-end. One end of metal A is maintained at 100 \u00b0C and the opposite end of the metal B is kept melting ice. When stready conditions have been reached with the bars well lagged, the temperature of the junction is found to be 25 \u00b0C. The ratio of the thermal conductivity of metal A of that metal B is\nA. 1:6\nB. 2:3\nC. 3:2\nD. 6:1",
+        "output": "B\n\nSince the heat flow by conduction through the two metals must be the same, As Q/t = k(A[(T_hot - T_cold) / d]) \u2234k(A[(T_hot - T_cold) / d]) = constant\n\u2234k_A*(100-25)/80 = k_B(25-0)/40 \u2234k_A:k_B = 2:3"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A simplified rectangular cuboid house with width 3.5 m, length 12m and height 3.8 m. A window of 3m * 2m is installed on the front side of the house. Apart from the bottom, assume that all the five surfaces of the house are under sunlight. The temperature inside is kept at a constant value of 25 \u00b0C. The outside temperature of the environment has an average value of 34 \u00b0C. Given: U-value of building material of the house = 1.5 W m^-2 K^-1, U-values of glass of the window = 4.2 W m^-2 K^-1\n(a) Calculate the rate of heat transfer through the walls of the building.\n(b) Calculate the rate of heat transfer through the window.\n(c) If the average thickness of the walls is 0.36 m, find the thermal conductivity of the walls.\n(d) Hence, determine the overall thermal transfer value of the house.\n(e) Suggest TWO methods to reduce the OTTV value of the house.",
+        "output": "(a) Total area of the 4 walls and the roof: A = 12*3.8*2+12*3.5+3.8*3.5*2-3*2 = 153.8 m^2\nQ/t = UA(T_A - T_C)\n=(1.5)(153.8)(34-25)\n=2076 W\n(b) Q/t = UA(T_B - T_C)\n=(4.2)(2*3)(34-25)\n=227 W\n(c) U=k/d\n\u2234(1.5)=k/(0.36)\n\u2234k = 0.54 W m^-1 K^-1\n(d) OTTV = (Q/t) / A = (2076/227) / 153.8+6 = 14.4 W m^-2\n(e) Any ONE of the followings: Decrease the U-value of the building material of the wall, Increase the thickness of the walls.\nAny ONE of the followings: Decrease the U-value of the windows, Use double-glazed windows, Install solar control window film to the windows, Use reflective windows, Use low-e windows."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A train travelling at a constant speeed of 72 km per hour is carrying 200 passengers each with an average mass of 60 kg. What is the total kinetic energy of all the passengers?\nA. 240 kJ\nB. 864 kJ\nC. 4.8 MJ\nD. 2.4 MJ",
+        "output": "D\n\nKE = 0.5mv^2 = 0.5(200*60)(72*1000/3600)^2 = 2400000 J = 2.4 MJ"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "If each fission of uranium-235 liberates 200 MeV of energy, how much uranium-235 must undergo fission per second to generate a power of 5000 MW?\nA. 1.0*10^-23 kg\nB. 1.1*10^-9 kg\nC. 2.6*10^-7 kg\nD. 6.1*10^-5 kg",
+        "output": "D\n\nIn 1 second, 5000 MJ of energy is generated. Each U-235 nuclei can give out 200 MeV of energy. Number of U-235 nuclei needed in 1 s = 5000*10^6 / 200*10^6*1.6*10^-19 = 1.5625*10^20\nMolar mass of U-235 is 235 g or 0.235 kg. Mass of U-235 needed in 1 s = 1.5625*10^20 / 6.02*10^23 * 0.235 = 6.1*10^-5 kg"
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "(a) The following equation represents a possible nuclear reaction in a fission reactor: ^235_92U + ^1_0n -> ^91_36Kr + ^142_56Ba + 3 ^1_0n Given: the mass of one nucleus of ^235_92U = 235.0439 u, ^1_0n = 1.0087 u, ^91_36Kr = 90.9234 u, ^142_56Ba = 141.9164 u,\n(ai) According to the above equaion, what is the mass defect between the reactants and products when one ^235_92U nucleus undergoes fission?\n(aii) If 4.00*10^-5 kg of ^235_92U splits per second, calculate the rate of energy production.\n(b) Explain how energy can be extracted from the core of a fission reactor for producing electricity.",
+        "output": "(ai) Mass defect = (235.0439 u + 1.0087 u) - (90.9234 u + 141.9164 u + 3*1.0087 u)\n= 0.1867 u\n(aii) Number of U-235 nuclei split per second = 4.00*10^-5 / 235.0439*1.66*10^-27 = 1.0412*10^20\nRate of energy production = [0.1867 * 1.661*10^-27 * (3*10^8)^2] * (1.0246*10^20) = 2.86*10^9 W\n(b) The gas coolant absorbs heat as it flows around the reactor core, and the thermal energy is transferred to the water which is then converted to steam. The turbins is then driven by stream to rotate and drive the generator to produce electricity."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "Which of the following would affect the amount of solar radiation falling on the surface of the Earth's surface?\n(1) the latitude of the place\n(2) the altitude of the place\n(3) weather of the day\nA. (1) & (2) only\nB. (1) & (3) only\nC. (2) & (3) only\nD. (1), (2) & (3)",
+        "output": "D\n\n(1) correct: Different latitude receive different sunlight, the latitude closer to the equator would receive more.\n(2) correct: Places at different altitdue absorb different amount of sunlight.\n(3) correct: Weather of the day would affect the sunlight, as cloudy days have little sunlight."
+    },
+    {
+        "instruction": "Answer and provide a step to step explanation of this question for me: ",
+        "input": "A solar heater is used to heat 250 kg of water initially at 15 \u00b0C to a temperature of 60 \u00b0C in a time of 8 hours. The solar constant is 1370 W m^-2. In average, the atmosphere absorbs 35% solar radiation. Given that the specific heat capacity of water is 4200 J kg^-1 \u00b0C^-1.\n(a) Calculate the power that should be supplied to the water to fulfill the above heating process.\n(b) If the conversion efficiency of solar heater is 45%, what should be the area of the collecting panel that is required for the above heating process?\n(c) State TWO disadvantages of utilizing solar power.",
+        "output": "(a) P = (m/t)c\u0394T = (250)/(8*3600) * (4200)(60-15) = 1640 W\n(b) Intensity of solar energy reaching the Earth's surface = 1370 * (1-35%) = 890.5 W m^-2\n(890.5) * A * 45% = 1640\n\u2234A = 4.09 m^2\n(c) Any TWO of the followings: Solar power is only available during the day, Solar power is not steady, as clouds may block the sunlight, Solar power has low power output, Solar power requires large area to collect sunlight,"
+    }
+]
